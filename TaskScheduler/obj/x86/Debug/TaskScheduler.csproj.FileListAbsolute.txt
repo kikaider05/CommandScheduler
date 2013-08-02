@@ -11,3 +11,18 @@ C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Quartz.pdb
 C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Quartz.xml
 C:\Users\kikaider05\Desktop\TaskScheduler\obj\x86\Debug\TaskScheduler.exe
 C:\Users\kikaider05\Desktop\TaskScheduler\obj\x86\Debug\TaskScheduler.pdb
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\obj\x86\Debug\TaskScheduler.exe
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\obj\x86\Debug\TaskScheduler.pdb
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\TaskScheduler.exe
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\TaskScheduler.pdb
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\Common.Logging.dll
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\Quartz.dll
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\Common.Logging.pdb
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\Common.Logging.xml
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\Quartz.pdb
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\bin\Debug\Quartz.xml
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\obj\x86\Debug\TaskScheduler.ProjectInstaller.resources
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marchalk\Documents\Visual Studio 2010\Projects\CommandScheduler\TaskScheduler\obj\x86\Debug\GenerateResource.write.1.tlog

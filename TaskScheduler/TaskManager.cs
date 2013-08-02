@@ -15,8 +15,6 @@ namespace TaskScheduler
     public partial class TaskManager : ServiceBase
     {
         public Quartz.IScheduler scheduler;
-        public string logFile = System.Configuration.ConfigurationManager.AppSettings["ServiceLogLoc"];
-        public string Connection = System.Configuration.ConfigurationManager.AppSettings["DisasterConStr"];
 
         public TaskManager()
         {
