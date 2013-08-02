@@ -1,0 +1,13 @@
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\TaskScheduler.exe.config
+C:\Users\kikaider05\Desktop\TaskScheduler\obj\x86\Debug\TaskScheduler.ProjectInstaller.resources
+C:\Users\kikaider05\Desktop\TaskScheduler\obj\x86\Debug\TaskScheduler.csproj.GenerateResource.Cache
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\TaskScheduler.exe
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\TaskScheduler.pdb
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Common.Logging.dll
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Quartz.dll
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Common.Logging.pdb
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Common.Logging.xml
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Quartz.pdb
+C:\Users\kikaider05\Desktop\TaskScheduler\bin\Debug\Quartz.xml
+C:\Users\kikaider05\Desktop\TaskScheduler\obj\x86\Debug\TaskScheduler.exe
+C:\Users\kikaider05\Desktop\TaskScheduler\obj\x86\Debug\TaskScheduler.pdb

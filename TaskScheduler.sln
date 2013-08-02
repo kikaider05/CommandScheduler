@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskScheduler", "TaskScheduler\TaskScheduler.csproj", "{8B1EDC8F-61F2-4432-825A-5D51F9A3A600}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TaskSchedulerInstaller", "TaskSchedulerInstaller\TaskSchedulerInstaller.vdproj", "{C8766EE3-5E90-47E4-B7B9-3302F3083E8F}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1EDC8F-61F2-4432-825A-5D51F9A3A600}.Debug|x86.ActiveCfg = Debug|x86
+		{8B1EDC8F-61F2-4432-825A-5D51F9A3A600}.Debug|x86.Build.0 = Debug|x86
+		{8B1EDC8F-61F2-4432-825A-5D51F9A3A600}.Release|x86.ActiveCfg = Release|x86
+		{8B1EDC8F-61F2-4432-825A-5D51F9A3A600}.Release|x86.Build.0 = Release|x86
+		{C8766EE3-5E90-47E4-B7B9-3302F3083E8F}.Debug|x86.ActiveCfg = Debug
+		{C8766EE3-5E90-47E4-B7B9-3302F3083E8F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
